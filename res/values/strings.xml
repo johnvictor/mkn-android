@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MKN</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mkn">M K N</string>
+    <string name="search_hint">vegetables</string>
+    <string name="search_title">Search</string>
+    <string name="cart">Cart</string>
+    <string name="vegetable_hint">Vegetable name</string>
+    <string name="cart_hint">Add to cart</string>
+    <string name="about_us">About us</string>
+    <string name="contact_us">Contact us</string>
+    <string name="contact_name">M. KARUNANIDHI</string>
+    <string name="contact_address">Wholesale and Retail Supplier in Chinese
+        \nEnglish &amp; Country Vegetables
+        \n57/227, UMC Market Ooty
+        \nThe Nilgiris - 643001</string>
+
+    <string-array name="vegetables_list">
+        <item>Carrot</item>
+        <item>Baby carrot</item>
+        <item>Carrot with canopy</item>
+        <item>Beetroot</item>
+        <item>Beetroot with leaf</item>
+        <item>Potato (ooty)</item>
+        <item>Baby potato</item>
+        <item>Red radish</item>
+        <item>Table radish</item>
+        <item>White radish</item>
+        <item>Green cabbage</item>
+        <item>Red cabbage</item>
+        <item>Chinese cabbage</item>
+        <item>B’ Sprouts</item>
+        <item>Cauliflower (ooty)</item>
+        <item>Broccoli</item>
+        <item>Bush beans</item>
+        <item>Votex beans</item>
+        <item>Curry beans</item>
+        <item>Broad beans</item>
+        <item>Green capsicum</item>
+        <item>Red capsicum</item>
+        <item>Yellow capsicum</item>
+        <item>Jalapeno chilly</item>
+        <item>Sweet  peas (ooty)</item>
+        <item>Turnip</item>
+        <item>Knolkhol</item>
+        <item>Hill garlic (ooty)</item>
+        <item>Baby corn</item>
+        <item>Sweet  corn</item>
+        <item>Green Zucchini</item>
+        <item>Yellow zucchini</item>
+        <item>Chow chow</item>
+        <item>Spring onion</item>
+        <item>Spinach - Palak</item>
+        <item>Artichoke</item>
+        <item>Leeks</item>
+        <item>Celery</item>
+        <item>Mushroom – button</item>
+        <item>Pink lettuce</item>
+        <item>Green lettuce</item>
+        <item>Ice burg</item>
+        <item>Rosemary</item>
+        <item>Thymes</item>
+        <item>Lemon grass</item>
+        <item>Parsley</item>
+        <item>Bazil</item>
+        <item>Oregano</item>
+        <item>Dill</item>
+        <item>Methy</item>
+    </string-array>
+
+    <string name="title_activity_vegetable_detail">VegetableDetail</string>
+    <string name="title_activity_contact">Contact Us</string>
+    <string name="title_activity_aboutus">About Us</string>
+
+</resources>

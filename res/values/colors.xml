@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="orange">#fff3632b</color>
+    <color name="black">#000000</color>
+    <color name="pea">#78AB46</color>
+    <color name="action_bar_color">#001400</color>
+    <color name="list_background_color">#fff</color>
+    <color name="listview_divider_color">#007f00</color>
+    <color name="vegetable_name_color">#003300</color>
+
+</resources>
